@@ -1,0 +1,2 @@
+#output
+print ("phytonGio file")
